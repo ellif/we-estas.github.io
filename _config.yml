@@ -33,14 +33,14 @@ disqus:
   shortname:  # Required if you use disqus. Replace with your disqus shortname here
 
 gitalk:
-  comments: true # Global toggle on/off gitalk comment
+  comments: false # Global toggle on/off gitalk comment
   # replace all of those below with your own
-  client_id: f23255452c861ba9ba03
-  client_secret: 6818b7b68b8b7a0033b2d884645aa06b50588259
-  repo: we-estas.github.io
-  owner: we-estas
-  admin: we-estas
-  distraction_free_mode: true
+  client_id: 
+  client_secret: 
+  repo: 
+  owner: 
+  admin:
+  distraction_free_mode:
 
 
 google_analytics:
