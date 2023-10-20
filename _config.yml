@@ -21,12 +21,12 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+name: estas # Required: will be displayed on every page's header
+title: estas # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
-description: "Some short description on your site" # Required
+  - 대한민국 최초 성인자폐(성)당사자 자치 자조모임이자 
+  - 자폐당사자단체(APO)인 estas의 공식 홈페이지입니다.
+description: "성인자폐(성)당사자 자조모임 estas의" # Required
 
 disqus:
   comments: false # Global toggle on/off disqus comment
