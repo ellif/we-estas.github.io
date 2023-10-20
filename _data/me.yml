@@ -1,25 +1,15 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
-hi: "HIYA!"
+name: "estas"
+job: "성인자폐(성)당사자 자조모임"
+hi: "우리는 외딴섬이 아니잖아요!"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
-skills:
-  - name: "Programming"
-    icon-class: "fa fa-terminal"
-    list: ["PHP", "Python", "Shell", "C", "SQL"]
-  - name: "Framework"
-    icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
-  - name: "Tools"
-    icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText"]
+  - "안녕하세요, 한국 최초의 성인 자폐성장애인 자조모임"
+  - "estas의 공식 홈페이지입니다."
 
-display_name: "YOUR NAME"
+display_name: "estas"
 contact:
   - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
   - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
