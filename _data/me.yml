@@ -14,4 +14,6 @@ contact:
   - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
   - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com/we-estas", link: "https://github.com/we-estas"}
+  - {name: "GitHub", icon-class: "fa fa-twitter-square", text: "https://twitter.com/estas_kr", link: "https://twitter.com/estas_kr"}
+  - {name: "GitHub", icon-class: "fa fa-facebook-square", text: "https://www.facebook.com/estasKorea", link: "https://www.facebook.com/estasKorea"}
