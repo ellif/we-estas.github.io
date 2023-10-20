@@ -37,7 +37,7 @@ gitalk:
   # replace all of those below with your own
   client_id: f23255452c861ba9ba03
   client_secret: 6818b7b68b8b7a0033b2d884645aa06b50588259
-  repo: jekyll-theme-textalic
+  repo: we-estas.github.io
   owner: we-estas
   admin: we-estas
   distraction_free_mode: true
