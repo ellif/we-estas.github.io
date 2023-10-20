@@ -35,8 +35,8 @@ disqus:
 gitalk:
   comments: true # Global toggle on/off gitalk comment
   # replace all of those below with your own
-  client_id: baeea51800be67550b52
-  client_secret: 4a521ccafa96b8b2b128659c35468bdd7ba5d4aa
+  client_id: 9390ead0b81d938cd1ed
+  client_secret: 307d8587f0307702c6994483596fd04685f2d364
   repo: jekyll-theme-textalic
   owner: unifreak
   admin: unifreak
